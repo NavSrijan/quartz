@@ -3,6 +3,6 @@ title: Angrezon Bharat Chhodo
 ---
 
 
-- [Maths](maths/CONTENT.md)
-- [Physics](physics/CONTENT.md)
-- [Chemistry](chemistry/CONTENT.md)
+- [Maths](Maths/CONTENT.md)
+- [Physics](Physics/CONTENT.md)
+- [Chemistry](Chemistry/CONTENT.md)
